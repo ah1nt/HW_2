@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+opencv-python
+ultralytics>=8.0.0
+wandb
+swanlab
+matplotlib
+tqdm
+scikit-learn
+Pillow
